@@ -11,7 +11,7 @@
 <a href="https://www.hackerrank.com/_shinchancode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/_shinchancode" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=AlisterCardoza&label=Profile%20views&color=0e75b6&style=flat" alt="AlisterCardoza" /> </p>
+<p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=AlisterCardoza&label=Profile%20views&color=0e75b6&style=flat" alt="AlisterCardoza" /></p>
 
 <h2 align="center">Languages & Tools</h2>
 <p align="center">
@@ -25,4 +25,6 @@
   <summary><h2>📊 GitHub Stats:</h2></summary>
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlisterCardoza&theme=default&show_icons=true&hide_border=true&count_private=true" alt="shinchancode"/></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisterCardoza&hide_progress=true)"/>
+</p>
 </details>
