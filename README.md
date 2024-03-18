@@ -27,6 +27,4 @@
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlisterCardoza&theme=default&show_icons=true&hide_border=true&count_private=true" alt="shinchancode"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlisterCardoza&hide_progress=true)"/>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AlisterCardoza)](https://git.io/streak-stats)
-</p>
 </details>
