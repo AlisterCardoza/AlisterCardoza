@@ -1,10 +1,6 @@
 <h3 align="center">Hey there, I'm Alister Cardoza"</h3>
 <p align="center" ><img src="https://github.com/AlisterCardoza/AlisterCardoza/assets/141271035/0da6c814-3c17-4050-be19-27797b7490f3" alt="Typing SVG" /></p>
     
-[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Aarti%20Rathi&url=https%3A%2F%2Fshinchancode.github.io/React-Portfolio%2F)](https://shinchancode.github.io/3d-react-portfolio/)
-
-[![@AartiKumari's Holopin board](https://www.holopin.me/shinchancode)](https://holopin.io/@shinchancode)
-
 <h2 align="center"> Connect With Me </h2>
 
 <p align="center">
