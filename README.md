@@ -24,10 +24,5 @@
 <details open> 
   <summary><h2>📊 GitHub Stats:</h2></summary>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlisterCardoza&theme=default&show_icons=true&hide_border=true&count_private=true" alt="shinchancode" /></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shinchancode&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="shinchancode" /></p>
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=AlisterCardoza&theme=default&hide_border=true" alt="shinchancode" /></p>
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=AlisterCardoza&theme=default&show_icons=true&hide_border=true&count_private=true" alt="shinchancode"/></p>
 </details>
-
-[website]: https://shinchancode.github.io/3d-react-portfolio/
-[twitter]: https://twitter.com/codeshinchan
